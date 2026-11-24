@@ -1,0 +1,6 @@
+TASK-new-*.md
+STATUS.md
+result.json
+transcripts.tar.gz
+agent-*.log
+__pycache__/
